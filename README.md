@@ -1,7 +1,7 @@
 Note: This is just a test repository!
 You might want to visit https://github.com/JensLiebehenschel/AlgDat.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JensLiebehenschel/AlgDatTest)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JensLiebehenschel/AlgDatTest/HEAD)
 <-- click here to open the Jupyter notebooks without any installation in a web browser
 
 ## AlgDat
